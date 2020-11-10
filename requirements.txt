@@ -1,0 +1,14 @@
+asgiref==3.2.3
+certifi==2019.11.28
+Django==3.0.3
+django-filter==2.2.0
+djangorestframework==3.11.0
+Markdown==3.2
+mysql==0.0.2
+mysqlclient==1.4.6
+pygame==2.0.0
+pytz==2019.3
+sqlparse==0.3.0
+wincertstore==0.2
+gunicorn==20.0.4
+psycopg2==2.8.6
